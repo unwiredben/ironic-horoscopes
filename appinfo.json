@@ -1,0 +1,29 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "combee@techwood.org",
+    "longName": "Ironic Horoscopes",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/cancer_28x28bw.png",
+                "menuIcon": true,
+                "name": "CANCER_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Horoscopes",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "182d0aa6-fe94-4532-8adb-358780defe52",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
